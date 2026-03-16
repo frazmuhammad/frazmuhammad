@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Muhammad Fraz 🚀
+R&D Engineer | Embedded Systems | Computer Vision
 
-<!--
-**frazmuhammad/frazmuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between High-Power/Electronics Hardware and Artificial Intelligence. With 2 years of startup experience in Germany, I specialize in building the physical systems that make AI functional in the real world.
 
-Here are some ideas to get you started:
+🛠 Core Expertise
+Hardware: Multi-layer PCB Design (EDA), 3D CAD Modeling (Mechanical enclosures for sensors).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software: Python (PyTorch/OpenCV), C++ for Embedded (PLC/Arduino/ESP32).
+
+Industrial Vision: Experience with Hikrobotics, Intel RealSense, and Machine Vision integration.
+
+🎯 Research Interests
+Currently focusing on Human-Robot Interaction (HRI) and Industrial AI (Industry 5.0)—specifically how hardware-aware models can improve real-time environmental perception.
